@@ -1,0 +1,16 @@
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\bin\Debug\netstandard2.0\FlashMusicApp.deps.json
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\bin\Debug\netstandard2.0\FlashMusicApp.dll
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\bin\Debug\netstandard2.0\ref\FlashMusicApp.dll
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\bin\Debug\netstandard2.0\FlashMusicApp.pdb
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.csprojAssemblyReference.cache
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\View\ItemDetailPage.xaml.g.cs
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\View\ItemQueryPage.xaml.g.cs
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.AssemblyInfoInputs.cache
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.AssemblyInfo.cs
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.csproj.CoreCompileInputs.cache
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.dll
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\ref\FlashMusicApp.dll
+F:\Asp.NetCore Project\Xamarin.MsToDo\src\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.pdb

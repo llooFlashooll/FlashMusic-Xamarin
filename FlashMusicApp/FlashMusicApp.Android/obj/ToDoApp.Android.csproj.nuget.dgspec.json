@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {}
+  },
+  "projects": {
+    "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+        "projectName": "ToDoApp.Android",
+        "projectPath": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+        "packagesPath": "C:\\Users\\Flash\\.nuget\\packages\\",
+        "outputPath": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Flash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\FlashMusicApp.csproj": {
+                "projectPath": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\FlashMusicApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Plugin.CurrentActivity": {
+              "target": "Package",
+              "version": "[2.1.0.4, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.617, )"
+            }
+          }
+        }
+      }
+    },
+    "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\FlashMusicApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\FlashMusicApp.csproj",
+        "projectName": "FlashMusicApp",
+        "projectPath": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\FlashMusicApp.csproj",
+        "packagesPath": "C:\\Users\\Flash\\.nuget\\packages\\",
+        "outputPath": "F:\\Asp.NetCore Project\\Xamarin.MsToDo\\src\\ToDoApp\\ToDoApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Flash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "MvvmLight": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "MvvmLightLibsStd10": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.530, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
