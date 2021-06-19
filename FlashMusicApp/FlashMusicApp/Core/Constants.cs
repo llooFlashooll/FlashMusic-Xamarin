@@ -36,6 +36,7 @@ namespace FlashMusicApp.Core
                    new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe614", Title = "音乐学习", BackColor = "#e83929", },
                    new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe755", Title = "歌词创作", BackColor = "#fabf14", },
                    new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe63b", Title = "购物清单", BackColor = "#0094c8", },
+                   new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe63b", Title = "收支记录", BackColor = "#74325c", },
                    new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe63b", Title = "待上课程", BackColor = "#d4acad", },
                    new Checklist() { Id=Guid.NewGuid().ToString(), IconFont = "\xe63b", Title = "待办事项", BackColor = "#839b5c", },
                 });

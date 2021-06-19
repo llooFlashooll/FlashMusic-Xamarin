@@ -11,6 +11,7 @@ android.support.design.widget.BottomNavigationView;F:\Asp.NetCore Project\FlashM
 android.support.design.widget.CoordinatorLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
 android.support.design.widget.CoordinatorLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
 android.support.design.widget.CoordinatorLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.CoordinatorLayout;obj\Debug\90\res\layout\activity_calculator.xml
 android.support.design.widget.TabLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
 android.support.v7.widget.RecyclerView;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
@@ -19,6 +20,7 @@ android.support.v7.widget.Toolbar;F:\Asp.NetCore Project\FlashMusic-Xamarin\Flas
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+Button;obj\Debug\90\res\layout\content_main.xml
 cache-path;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
 external-cache-path;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -26,10 +28,12 @@ external-path;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusic
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+include;obj\Debug\90\res\layout\activity_calculator.xml
 item;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
 item;obj\Debug\90\res\menu\mainmenu.xml
 item;obj\Debug\90\res\values\styles.xml
 LinearLayout;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+LinearLayout;obj\Debug\90\res\layout\content_main.xml
 menu;obj\Debug\90\res\menu\mainmenu.xml
 paths;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
@@ -41,6 +45,7 @@ set;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Androi
 set;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
 style;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\content_main.xml
 translate;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
 translate;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
 translate;F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml

@@ -10,7 +10,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-  <application android:label="ToDoApp.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/work" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:label="ToDoApp.Android" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true" android:extractNativeLibs="true">
+    <activity android:configChanges="orientation|screenSize" android:label="CalculatorActivity" android:name="crc64f1714d7c2560c2bd.CalculatorActivity" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/work" android:label="FlashMusic" android:theme="@style/MainTheme" android:name="crc64f1714d7c2560c2bd.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

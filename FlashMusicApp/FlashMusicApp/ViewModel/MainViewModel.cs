@@ -27,9 +27,9 @@ namespace FlashMusicApp.ViewModel
                 Messenger.Default.Send("", "Add");
             });
             QueryCommand = new RelayCommand(() =>
-              {
+            {
                   Messenger.Default.Send("", "Query");
-              });
+            });
         }
 
         private ObservableCollection<Checklist> checklists;
@@ -43,6 +43,7 @@ namespace FlashMusicApp.ViewModel
         public RelayCommand<Checklist> OpenCommand { get; private set; }
         public RelayCommand AddCommand { get; private set; }
         public RelayCommand QueryCommand { get; private set; }
+
 
         public async void InitMainViewModel()
         {

@@ -1,3 +1,6 @@
+FlashMusicApp.Droid.CalculatorActivity, FlashMusicApp.Android;crc64f1714d7c2560c2bd.CalculatorActivity
+FlashMusicApp.Droid.CalculatorActivity;crc64f1714d7c2560c2bd.CalculatorActivity
+flashmusicapp.droid.CalculatorActivity;crc64f1714d7c2560c2bd.CalculatorActivity
 FlashMusicApp.Droid.MainActivity, FlashMusicApp.Android;crc64f1714d7c2560c2bd.MainActivity
 FlashMusicApp.Droid.MainActivity;crc64f1714d7c2560c2bd.MainActivity
 flashmusicapp.droid.MainActivity;crc64f1714d7c2560c2bd.MainActivity
