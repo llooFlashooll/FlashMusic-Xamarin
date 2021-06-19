@@ -29,3 +29,4 @@ F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp\obj\Debug\
 F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.dll
 F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\ref\FlashMusicApp.dll
 F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.pdb
+F:\Asp.NetCore Project\FlashMusic-Xamarin\FlashMusicApp\FlashMusicApp\obj\Debug\netstandard2.0\FlashMusicApp.csprojAssemblyReference.cache
