@@ -37,7 +37,7 @@ namespace FlashMusicApp
 
         private async void Add(string obj)
         {
-            var result = await DisplayPromptAsync("", "请输入清单标题?");
+            var result = await DisplayPromptAsync("", "请输入清单标题");
             if (!string.IsNullOrWhiteSpace(result))
             {
                 viewModel.AddCheckList(new Checklist()
@@ -45,7 +45,7 @@ namespace FlashMusicApp
                     Title = result,
                     Id = Guid.NewGuid().ToString(),
                     IconFont = "\xe63b",
-                    BackColor = "#009ACD",
+                    BackColor = "#ce5242",
                 });
             }
         }

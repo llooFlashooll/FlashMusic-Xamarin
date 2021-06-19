@@ -31,6 +31,7 @@ namespace FlashMusicApp.Module
 
         /// <summary>
         /// 收藏
+        /// RaisePropertyChanged属性用于属性更新的渲染使用
         /// </summary>
         public bool IsFavorite
         {

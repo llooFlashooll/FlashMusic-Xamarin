@@ -14,6 +14,10 @@ namespace FlashMusicApp.ViewModel
     public class ItemDetailViewModel : ViewModelBase
     {
         private readonly IToDoService toDoService;
+
+        /// <summary>
+        /// 注册服务
+        /// </summary>
         public ItemDetailViewModel(SingleChecklist checklist)
         {
             this.SingleChecklist = checklist;
@@ -46,11 +50,10 @@ namespace FlashMusicApp.ViewModel
         public RelayCommand<ChecklistDetail> ExcludeCommand { get; private set; }
         public RelayCommand<ChecklistDetail> KeepCommand { get; private set; }
 
-        //新增
+        // 新增
         public RelayCommand AddCommand { get; private set; }
-        //删除
+        // 删除
         public RelayCommand<ChecklistDetail> DeleteCommand { get; private set; }
-
 
         public async void AddTask()
         {

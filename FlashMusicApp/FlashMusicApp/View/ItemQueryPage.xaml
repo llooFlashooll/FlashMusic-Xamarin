@@ -18,11 +18,7 @@
                 <DataTemplate>
                     <ViewCell>
                         <SwipeView Margin="8,4,8,0">
-                            <!--<SwipeView.LeftItems>
-                                <SwipeItems>
-                                    <SwipeItem Text="Left" BackgroundColor="Blue"/>
-                                </SwipeItems>
-                            </SwipeView.LeftItems>-->
+
                             <SwipeView.RightItems>
                                 <SwipeItems>
                                     <SwipeItem 

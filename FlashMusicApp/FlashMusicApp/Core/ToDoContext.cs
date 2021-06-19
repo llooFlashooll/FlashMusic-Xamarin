@@ -7,7 +7,7 @@ using FlashMusicApp.Module;
 namespace FlashMusicApp.Core
 {
     /// <summary>
-    /// ToDo Db上下文
+    /// FlashMusic Db上下文
     /// </summary>
     public class ToDoContext : DbContext
     {

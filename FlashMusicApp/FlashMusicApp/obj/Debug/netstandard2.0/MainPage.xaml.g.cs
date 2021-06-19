@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ToDoApp.MainPage.xaml", "MainPage.xaml", typeof(global::FlashMusicApp.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("FlashMusicApp.MainPage.xaml", "MainPage.xaml", typeof(global::FlashMusicApp.MainPage))]
 
 namespace FlashMusicApp {
     

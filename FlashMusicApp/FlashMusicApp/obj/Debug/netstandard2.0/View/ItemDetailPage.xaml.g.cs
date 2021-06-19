@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ToDoApp.View.ItemDetailPage.xaml", "View/ItemDetailPage.xaml", typeof(global::FlashMusicApp.View.ItemDetailPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("FlashMusicApp.View.ItemDetailPage.xaml", "View/ItemDetailPage.xaml", typeof(global::FlashMusicApp.View.ItemDetailPage))]
 
 namespace FlashMusicApp.View {
     

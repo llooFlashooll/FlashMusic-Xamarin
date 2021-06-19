@@ -9,7 +9,8 @@ namespace FlashMusicApp.Core.Helper
     {
 
         /// <summary>
-        /// 全局的List<T> 转换  ObservableCollection<T> 的扩展方法
+        /// 全局的List<T> 转换 ObservableCollection<T> 的扩展方法
+        /// 用于界面端的展示
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="from"></param>

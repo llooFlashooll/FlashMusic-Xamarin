@@ -14,6 +14,10 @@ namespace FlashMusicApp.ViewModel
     public class MainViewModel : ViewModelBase
     {
         private readonly IToDoService toDoService;
+
+        /// <summary>
+        /// 注册服务
+        /// </summary>
         public MainViewModel()
         {
             toDoService = ServiceProvider.Instance.Get<IToDoService>();

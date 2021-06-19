@@ -7,7 +7,7 @@ using System.Text;
 namespace FlashMusicApp.Module
 {
     /// <summary>
-    /// 自定义的接受结果
+    /// Checklist的接收结果
     /// </summary>
     public class SingleChecklist : ViewModelBase
     {

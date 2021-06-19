@@ -11,6 +11,11 @@ namespace FlashMusicApp.ViewModel
     public class ItemQueryViewModel : ItemDetailViewModel
     {
         private readonly IToDoService toDoService;
+
+        /// <summary>
+        /// 注册服务
+        /// </summary>
+        /// <param name="checklist"></param>
         public ItemQueryViewModel(SingleChecklist checklist) : base(checklist)
         {
             toDoService = ServiceProvider.Instance.Get<IToDoService>();

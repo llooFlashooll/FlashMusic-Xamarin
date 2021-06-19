@@ -7,6 +7,9 @@ using FlashMusicApp.Service;
 
 namespace FlashMusicApp.Core
 {
+    /// <summary>
+    /// 容器，注入服务映射
+    /// </summary>
     public class AutofacLocator : IAutofacLocator
     {
         IContainer container;
@@ -23,7 +26,7 @@ namespace FlashMusicApp.Core
         {
             var Container = new ContainerBuilder();
 
-            //注入ToDo数据层服务映射
+            // 注入ToDo数据层服务映射
             Container.RegisterType<ToDoService>().As<IToDoService>();
 
             container = Container.Build();
